@@ -1,0 +1,91 @@
+:root {
+	--color: #2f2d2a;
+	--hover: #53514d;
+	--bg: #efefef;
+	--fg: white;
+}
+
+._1SIMq {
+    background-color: var(--color);
+}
+
+.site-navigation:hover {
+	background-color: var(--hover);
+}
+
+.Header-header-button-active-state-3AvBm:hover:not(:active) {
+	background-color: var(--hover);
+}
+
+._1SIMq._2kpZl._3OAXJ._13cCs._3_bfp._2M5aC._24avl._3v0y7._2s0LQ._3ghFm._3LeCL._31GLY._9GDcm._1D8fw.util-height-six-3PHnk.util-pds-icon-default-2kZM7.util-line-height-six-3lFgd.util-text-decoration-none-1n0lI.Header-header-button-active-state-3AvBm.Header-header-button-1EE8Y.sExtlink-processed:hover {
+	background-color: var(--hover);
+}
+
+.s-enable-course-dashboard.theme-2016-layout #home-feed-container {
+	box-shadow: none;
+}
+
+#header {
+	background-color: var(--color) !important;
+}
+
+.theme-2016-layout #main, .theme-2016-layout #right-column-inner > div:not(:empty) {
+   background-color: var(--fg); 
+}
+
+#main-content-wrapper {
+    background-color: var(--fg); 
+    border: none;
+}
+
+body.s_grade_item_assignment .with-tabs #center-top {
+    background-color: var(--fg); 
+    border: none;
+}
+
+.Header-header-button-active-state-3AvBm:focus:not(:active) {
+	background-color: var(--hover);
+}
+
+body {
+    background-color: var(--bg);
+}
+
+ul._1tpub:nth-child(1) > li:nth-child(1) {
+    display: none;
+}
+
+.s-enable-course-dashboard.theme-2016-layout #main {
+    background: var(--fg) !important;
+}
+
+header {
+    background: var(--color) !important;
+    background-color: var(--color) !important;
+}
+
+.edge-sentence-actions {
+    display: none;
+}
+
+.immersive-reader-button-container {
+    display: none;
+}
+
+footer {
+    background-color: var(--color) !important;
+    color: white !important;
+}
+
+footer:hover {
+    background-color: var(--color) !important;
+}
+
+._9e7c_._13cCs._3_bfp._2M5aC._3v0y7._2s0LQ.PPc7A._3LeCL.dVlNp._10N3s._3Wb6n {
+    background-color: var(--color) !important;
+}
+
+.dVlNp._10N3s._3Wb6n._3LeCL._2s0LQ._3v0y7._3_bfp.sExtlink-processed {
+	background-color: transparent !important;
+	color: white !important;
+}
