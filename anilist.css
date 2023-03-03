@@ -2,6 +2,8 @@
 	--gs: 0.8;
 }
 
+/* change orange theme to white/grayish */
+
 .site-theme-dark .user-page-unscoped.orange {
 	--color-blue: 218,223,221;
 }
