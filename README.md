@@ -9,6 +9,5 @@
 
 > [anilist.css](https://github.com/Javascript-void0/userstyles-userscripts/blob/main/styles/anilist.css): change default color scheme (orange)
 <br>[gmail.css](https://github.com/Javascript-void0/userstyles-userscripts/blob/main/styles/gmail.css): default theming sucks. everforest theme
-<br>[schoology.css](https://github.com/Javascript-void0/userstyles-userscripts/blob/main/styles/schoology.css): 
-<br>- change color schemes (banner + footer). 
-<br>- expand the height of docviewer to span full height of window
+<br>[schoology.css](https://github.com/Javascript-void0/userstyles-userscripts/blob/main/styles/schoology.css): change colors (banner + footer). 
+<br>[schoology.css](https://github.com/Javascript-void0/userstyles-userscripts/blob/main/styles/schoology-docviewer.css): expand docviewer to span full height of window

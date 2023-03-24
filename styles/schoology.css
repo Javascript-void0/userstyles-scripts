@@ -1,6 +1,7 @@
 /* ==UserStyle==
-@name        Anilist
-@description Minor tweaks/theme
+@name        Schoology
+@description change color of banner + footer
+@match       https://schoology.example.com
 @version     1.0
 @author      Java
 ==/UserStyle== */
@@ -96,10 +97,4 @@ footer:hover {
 .dVlNp._10N3s._3Wb6n._3LeCL._2s0LQ._3v0y7._3_bfp.sExtlink-processed {
 	background-color: transparent !important;
 	color: white !important;
-}
-
-/* expand document viewer (: */
-#content-wrapper .dropbox-viewer-item {
-	min-height: 600px;
-	height: 80vh;
 }

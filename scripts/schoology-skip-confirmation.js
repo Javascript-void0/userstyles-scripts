@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        schoology skip link confirmation
+// @description skip link confirmation
 // @match       https://schoology.example.com/link
 // @version     1.0
 // @author      java

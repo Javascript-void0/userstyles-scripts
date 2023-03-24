@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name        Schoology Docviewer
+@description expand height of docviewer
+@match       https://schoology.example.com
+@version     1.0.1
+@author      Java
+==/UserStyle== */
+
+/* expand document viewer (: */
+#content-wrapper .dropbox-viewer-item {
+	min-height: 600px;
+	height: 80vh;
+}
