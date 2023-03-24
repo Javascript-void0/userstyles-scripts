@@ -1,0 +1,40 @@
+/* ==UserStyle==
+@name        gmail
+@description Client side theme - everforest
+@version     1.0.1
+@author      Java
+==/UserStyle== */
+
+:root {
+	--color1: #232a2e;
+	--color2: #4f585e;
+	--color3: #343f44;
+	--darken: rgba(0, 0, 0, 0.1);
+}
+
+.wl {
+	background: var(--color1);
+}
+
+.bkK > .nH {
+	background-color: var(--color2);
+}
+
+.yO {
+	background: var(--color3);
+}
+
+/* search bar */
+.gb_Jc .gb_Ze {
+	background: var(--color2);
+}
+
+/* message? */
+.TD {
+	background: var(--darken);
+}
+
+/* filter menus */
+.H2.HD {
+	background-color: var(--darken);
+}
